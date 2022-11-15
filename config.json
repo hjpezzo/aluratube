@@ -129,5 +129,11 @@
                 "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
             }
         ]
-    }
+    },
+    "banner": "https://images.unsplash.com/photo-1522158637959-30385a09e0da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "favorites": [
+        {
+
+        }
+    ]
 }
